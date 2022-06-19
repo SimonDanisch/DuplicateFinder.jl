@@ -3,6 +3,10 @@ uuid = "94c28eec-e006-416e-8438-3d7f3e5b37a3"
 authors = ["Simon Danisch"]
 version = "0.1.0"
 
+[deps]
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
+
 [compat]
 julia = "1"
 
